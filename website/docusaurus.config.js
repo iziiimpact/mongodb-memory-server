@@ -12,9 +12,9 @@ if (!baseUrl.endsWith('/')) {
 }
 
 module.exports = {
-  title: 'mongodb-memory-server',
+  title: 'MY PROFILE',
   tagline:
-    'Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most cases with zero-config).',
+    'This is an example description of My Profile Page',
   url: 'https://nodkz.github.io',
   baseUrl: baseUrl,
   favicon: 'img/favicon.ico',
